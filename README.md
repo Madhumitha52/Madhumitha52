@@ -6,7 +6,6 @@
 
 A Passionate Full Stack Web developer from India
 
-# 💫 About Me:
 🔭 I’m currently working on **Machine Learning Project**<br><br>🌱 I’m currently learning Machine Learning and Full Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/Madhumitha52<br><br>💬 Ask me about Web development, Programming, DSA,AWS<br><br>📫 Reach out to me at madhumithavcse@gmail.com
 
 
