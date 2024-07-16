@@ -1,10 +1,5 @@
-##                                                                                       Hi 👋, I'm Madhumitha V
-
-<!--
-**Madhumitha52/Madhumitha52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-                                                                               A Passionate Full Stack Web developer from India
+<h1 align="center">Hi 👋, I'm Madhumitha V</h1>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 🔭 I’m currently working on **Machine Learning Project**<br><br>🌱 I’m currently learning Machine Learning and Full Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/Madhumitha52<br><br>💬 Ask me about Web development, Programming, DSA,AWS<br><br>📫 Reach out to me at madhumithavcse@gmail.com
 
