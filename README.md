@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madhumitha V</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Madhumitha52&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Madhumitha52&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 🔭 I’m currently working on **Machine Learning Project**<br><br>🌱 I’m currently learning Machine Learning and Full Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/Madhumitha52<br><br>💬 Ask me about Web development, Programming, DSA,AWS<br><br>📫 Reach out to me at madhumithavcse@gmail.com
 
 
@@ -11,11 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Madhumitha52&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumitha52&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Madhumitha52&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Madhumitha52&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
